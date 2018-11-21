@@ -19,3 +19,4 @@ permalink: pretty
 
 exclude: 
   - node_modules
+theme: jekyll-theme-midnight
